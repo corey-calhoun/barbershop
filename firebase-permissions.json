@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "barbershop-booking-37c26",
+  "private_key_id": "20ea8a46aae885b3f7f1ab86e53e661230e1d1db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC92hDEs1/qsL40\niuI4Y53o+7wGU1SXtPTFtQ/wi/hwfTQJWrdAtOc8yl/mi1l9/KRjUCyAEOPD0v1f\nASoqsEJvbrjydxSwKyYjlucz+QLITad3WJsWmjTgFRf0U+PQqkvBaw8Kwv2SFgmt\nCr0yPteTu1ujJ03dcn9A6O6zativBvspJLOgFPYkPRL2NkfL0BtUR5Z3OsneH3bV\ncNx+L0513ZGYNZ8LsbfFPsMRUFuj3j+uDHP0WJl9MnI09bkv48LZj9AQmjxmZYLj\nkA8Z9WbZ3I5xsNoOapJkFWhkmpRBgWqMwnO8A5IsOsov18XrxTonfm46JfQyADh3\n54juay/tAgMBAAECggEAHJ49ftknMUJ5OYRh+2wQxqkDu9Rd4Qx3BUJ456LBzXsi\nF/Ljws5COSisch05XUNzKEFSo+9n1gH9DZAoYgz1xsRi/rGynaezdRPvQCdeIwGJ\np/TkU/Dk3Y5wcPUgVzkEeGCCAPZJsPa/eKUwxd0xM+S/OIXZN/NleUxjhwopJaDe\nDkKuuSCmy4To/Csw5fL/itaqqEr8DIBIsmtv2MLhHO3IlfQD5QNsx2x6wEmztWHR\n7917BnYN2C/1OGHuYMoUZA42UoiJP/kvMQfRvEuHaUadKusEUo2+nxJwv7ESBHdb\nh/dh3z5I6wgBiqBYIG1WuvTerTDy+h4whYITR6sFJQKBgQDwdSW9g1X0QkgT1SmE\nfeJOwATHnyMgLQJTprQB7nnVSUCCMojnglCleJFf2b0Y59FeZI5MLl2bXOX7rBFb\nO9niTaH+mBl32BcCdx+PRr1s20B7UCtyFPdyaybIUZycvr2zYOWPCbVKyfIlxDkq\nPVEdvWm3syNQjXlNtgbalQ5VawKBgQDKH4tB/foeQOlztk6vbNIPE9qYw3l6SItD\n0L7rgPH8GDJBzkxL6rpmoEsrsLw66BBReZp7Ufahm8gp7OoZoGC1cugiJW2FB0/L\nBezWrzEkmfyXWqE7J7QjML+SJ7pDI3h9EJQAsV5rNtQlYDHUVZweELCDyXz/qPQ0\nLaL8gtEOBwKBgHTQlHsSuMknAhkQb1D8TtrvEeNgfhH9i6nTzJM7pVhmc75MipHd\njww0HHuyLdlRlTcEJtT/mV4GrXusRepKkzkLee1TOtwr0FHUSTKzrQabJSJC+jg7\n01J0l6ytaSYEy+e+5QauMrKYlNigER1iGGwYPqmNj1RsxkdobL/3tbTtAoGAf26p\n1t5wnjhgt1J+g32BZn4m+N9tLFqmawgmBsbSShVbQj/1vHtuMBvpqM8RrbX369ZW\nPl/rtfJInZ4/7g4+Ssf6cOTWCuQUO7UtoCDuQ9xN84LxWiFrIjCu50/i0EeBxJ/6\nIAGzvLbhw/rFD9E1z4LINx6Gj42PAYKwWrGDamsCgYBMaVk1LmlHQb3p8Cu8mVfs\nk5iOyoKH9i7yZVRbEd1eKiL2qCS53iJc5s/CHZkXrfADvpxmVURiNpPZe1h/C7Qx\njLyDDXxCJbeY74Fv8S+SWr6YCUxcI/pqC1IlhmRyyUw5cPxMRnuj4e3vaMai5lpw\nQhRvEPSJS7yYxhbFKW8cFg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-q9ebz@barbershop-booking-37c26.iam.gserviceaccount.com",
+  "client_id": "112993069477132606178",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-q9ebz%40barbershop-booking-37c26.iam.gserviceaccount.com"
+}

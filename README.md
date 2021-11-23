@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Barbershop Booking App
 
-## Getting Started
+This is a simple barbershop booking app built with Next.js and Firebase. It is a single page application that allows users to book a barber for a specific time, view their booking history, cancel their booking, and pay for their booking via Square.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
+  - Book a barber for a specific time
+  - View your booking history
+  - Cancel your booking
+  - Pay for your booking via Square
+
+## Installation
+
+```
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Pages
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+[] Landing Page (/landing)
+[] Login (/login)
+[] Signup (/signup)
+[] Main Booking Page (/)
+[] Booking History (/history)
+[] Checkout (/checkout)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Components
 
-## Learn More
+  - Landing Page
+    - Login Button
+    - Signup Button
+  - Login Page
+    - Login Form
+  - Signup Page
+    - Signup Form
+  - Main Booking Page
+    - Booking Form
+    - Booking History
+  - Booking History
+    - Booking History Table
+  - Checkout
+    - Checkout Form
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[] Next.js
+[] TailwindCSS
+[] Emotion
+[] Firebase
+[] Square
